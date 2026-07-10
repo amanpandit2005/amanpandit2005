@@ -118,7 +118,7 @@ I am a **Computer Science & Engineering Student** at **Shri Mata Vaishno Devi Un
 
 ### 📈 Weekly Coding Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanpandit2005&theme=radical&hide_border=true" alt="Aman's Activity Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanmishra2005&theme=radical&hide_border=true" alt="Aman's Activity Graph" width="98%" />
 </p>
 
 ### 📊 GitHub Overview & Top Languages
