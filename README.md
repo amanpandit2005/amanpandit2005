@@ -16,12 +16,17 @@
 
 I am a **Computer Science & Engineering Student** at **Shri Mata Vaishno Devi University (SMVDU)**. As an aspiring software engineer, I focus on building scalable web applications and developing a deep understanding of core computer science fundamentals. I bridge design aesthetics and optimal system logic.
 
-### 🚀 What I'm Up To:
-*   ⚡ **Backend Engineering**: Mastering production-grade architectures, API optimizations, and database scaling.
-*   📐 **TypeScript**: Writing fully type-safe code to build scalable, robust software systems.
+### 🚀 What I'm Up To & Learning Path:
+*   📊 **Advanced DSA & Optimization**: Deep-diving into complex algorithmic topics like **Graphs** and **Dynamic Programming (DP)**, alongside Trees and Recursion in Java and C to write highly optimized, low-latency code.
+*   ⚡ **Backend & Systems Engineering**: Mastering production-grade database designs, RESTful API structures, server performance, and secure JWT authorization models.
+*   📐 **TypeScript**: Writing fully type-safe code to construct robust, enterprise-ready software systems.
 *   ⚛️ **Modern Frontend**: Building lightning-fast single page architectures with **Next.js** and Server-Side Rendering (SSR).
-*   🌐 **Real-time Event Web**: Implementing real-time bi-directional data flow using **Socket.io** for chat and sync systems.
-*   🧠 **DSA Mastery**: Solving algorithmic benchmarks daily in Java and C to keep code performance optimal.
+*   🌐 **Real-time Event Web**: Implementing real-time, bi-directional data pipelines using **Socket.io** for live chat, sync systems, and dashboards.
+
+### 🤝 Let's Collaborate!
+*   I am looking to collaborate on **Open Source MERN/Next.js applications**, backend API designs, and real-time chat/collaboration tools.
+*   💬 **Ask me about:** Java, C, React, Node.js, Express, MongoDB, and DOM Manipulation.
+*   ⚡ **Fun Fact:** I love solving debugging mysteries and optimizing algorithms to make execution cycles as short as possible!
 
 ---
 
@@ -41,6 +46,8 @@ I am a **Computer Science & Engineering Student** at **Shri Mata Vaishno Devi Un
 <details open>
 <summary><b>⚛️ Frontend & Libraries</b></summary>
 <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
@@ -76,7 +83,7 @@ I am a **Computer Science & Engineering Student** at **Shri Mata Vaishno Devi Un
   <tr>
     <td width="50%" valign="top">
       <h3>🎙️ <a href="https://github.com/amanpandit2005/AI_Interview_Coach">AI Interview Coach</a></h3>
-      <p>A full-stack, voice-enabled mock interview platform. Conducts real-time speech-to-text interviews using Google Gemini to grade resumes and evaluate transcripts.</p>
+      <p>A full-stack mock interview platform. Conducts real-time speech-to-text interviews using Google Gemini to grade resumes and evaluate transcripts.</p>
       <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" />
       <img src="https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=google" />
@@ -109,11 +116,6 @@ I am a **Computer Science & Engineering Student** at **Shri Mata Vaishno Devi Un
 
 ## 📊 Interactive Metrics & Activities
 
-### 📅 My 3D Contribution Graph
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=amanpandit2005&theme=radical" alt="Aman's 3D Contribution Graph" width="98%" />
-</p>
-
 ### 📈 Weekly Coding Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanpandit2005&theme=radical&hide_border=true" alt="Aman's Activity Graph" width="98%" />
@@ -121,8 +123,8 @@ I am a **Computer Science & Engineering Student** at **Shri Mata Vaishno Devi Un
 
 ### 📊 GitHub Overview & Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanpandit2005&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Aman's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandit2005&layout=compact&theme=radical&hide_border=true" alt="Aman's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=amanpandit2005&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Aman's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=amanpandit2005&layout=compact&theme=radical&hide_border=true" alt="Aman's Top Languages" width="48%" />
 </p>
 
 <p align="center">
@@ -131,20 +133,27 @@ I am a **Computer Science & Engineering Student** at **Shri Mata Vaishno Devi Un
 
 ---
 
-## 📫 Let's Connect!
+<p align="center">
+  <a href="https://github.com/amanpandit2005">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=300&height=40&lines=%F0%9F%93%AB+Let's+Connect!;Get+in+Touch!" alt="Let's Connect Typing SVG" />
+  </a>
+</p>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/amanmishra2005/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/AmanMishra_2005" target="_blank">
     <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter/X" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:amanmishra15.08.2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
+</br>
+</br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amanpandit2005&icon=0&color=00c4cc" alt="Profile Views Count" />
 </p>
