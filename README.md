@@ -10,12 +10,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o0NDg4OGd2cHJ6eHA3ZjN2OHQwbzRnZWZ2eTh2cWw2ZXpkeXFwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L13yIHSgrCVD2C14ws/giphy.gif" width="180" alt="Coding Developer" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/amanmishra2005/Portfolio_Website" target="_blank">
-    <img src="https://img.shields.io/badge/Interactive%20Portfolio-View%20My%20Work-FF5A1F?style=for-the-badge&logo=react&logoColor=white" alt="Interactive Portfolio" />
-  </a>
-</p>
-
 ---
 
 ## 💫 About Me
