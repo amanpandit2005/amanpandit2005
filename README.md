@@ -68,6 +68,7 @@ I am a **Computer Science & Engineering Student** at **Shri Mata Vaishno Devi Un
 <summary><b>🎨 Design Tools & Cloud Hosting</b></summary>
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
@@ -116,8 +117,9 @@ I am a **Computer Science & Engineering Student** at **Shri Mata Vaishno Devi Un
   <tr>
     <td width="50%" valign="top">
       <h3>✨ <a href="https://github.com/amanmishra2005/Portfolio_Website">Interactive Portfolio Website</a></h3>
-      <p>Source code for my premium personal portfolio featuring advanced keyframe animations, glassmorphism UI widgets, and a responsive contact pipeline.</p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5" />
+      <p>Source code for my premium personal portfolio built with React and Vite, featuring advanced keyframe animations, glassmorphism UI widgets, and a responsive contact pipeline.</p>
+      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     </td>
@@ -170,8 +172,8 @@ I am a **Computer Science & Engineering Student** at **Shri Mata Vaishno Devi Un
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-</br>
-</br>
+<br/>
+<br/>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amanmishra2005&icon=0&color=00c4cc" alt="Profile Views Count" />
 </p>
