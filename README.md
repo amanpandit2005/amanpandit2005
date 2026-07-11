@@ -10,11 +10,19 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o0NDg4OGd2cHJ6eHA3ZjN2OHQwbzRnZWZ2eTh2cWw2ZXpkeXFwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L13yIHSgrCVD2C14ws/giphy.gif" width="180" alt="Coding Developer" />
 </p>
 
+<p align="center">
+  <a href="https://www.amanmishra.podiumaiinterviewer.in/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-38B2AC?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 ---
 
 ## 💫 About Me
 
 I am a **Computer Science & Engineering Student** at **Shri Mata Vaishno Devi University (SMVDU)**. As an aspiring software engineer, I focus on building scalable web applications and developing a deep understanding of core computer science fundamentals. I bridge design aesthetics and optimal system logic.
+
+🔗 **Portfolio:** [amanmishra.podiumaiinterviewer.in](https://www.amanmishra.podiumaiinterviewer.in/) — take a look at my work, projects, and journey in one place!
 
 ### 🚀 What I'm Up To & Learning Path:
 *   📊 **Advanced DSA & Optimization**: Deep-diving into complex algorithmic topics like **Graphs** and **Dynamic Programming (DP)**, alongside Trees and Recursion in Java and C to write highly optimized, low-latency code.
@@ -76,6 +84,21 @@ I am a **Computer Science & Engineering Student** at **Shri Mata Vaishno Devi Un
 
 ---
 
+## 🌐 My Portfolio
+
+<p align="center">
+  <a href="https://www.amanmishra.podiumaiinterviewer.in/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-38B2AC?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  A polished, interactive space showcasing my projects, skills, and journey as a developer — all in one place.<br/>
+  👉 <a href="https://www.amanmishra.podiumaiinterviewer.in/"><b>amanmishra.podiumaiinterviewer.in</b></a>
+</p>
+
+---
+
 ## 🌟 Featured Projects
 
 <table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
@@ -116,7 +139,7 @@ I am a **Computer Science & Engineering Student** at **Shri Mata Vaishno Devi Un
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>✨ <a href="https://github.com/amanmishra2005/Portfolio_Website">Interactive Portfolio Website</a></h3>
+      <h3>✨ <a href="https://github.com/amanmishra2005/Portfolio_Website">Interactive Portfolio Website (Source)</a></h3>
       <p>Source code for my premium personal portfolio built with React and Vite, featuring advanced keyframe animations, glassmorphism UI widgets, and a responsive contact pipeline.</p>
       <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react" />
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
@@ -128,6 +151,12 @@ I am a **Computer Science & Engineering Student** at **Shri Mata Vaishno Devi Un
       <p>A low-level C logistics optimizer, implementing custom pointer algorithms, structures, and routing modules from scratch.</p>
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/Logistics-black?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <h3>📂 <a href="https://github.com/amanmishra2005?tab=repositories">More projects on GitHub →</a></h3>
+      <p>Check out my <a href="https://github.com/amanmishra2005?tab=repositories">full repository list</a> for more experiments, DSA practice, and side builds.</p>
     </td>
   </tr>
 </table>
@@ -160,6 +189,10 @@ I am a **Computer Science & Engineering Student** at **Shri Mata Vaishno Devi Un
 </p>
 
 <p align="center">
+  <a href="https://www.amanmishra.podiumaiinterviewer.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-38B2AC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/amanmishra2005/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
