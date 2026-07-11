@@ -1,13 +1,19 @@
 # Hi there, I'm Aman Mishra! 👋
 
 <p align="center">
-  <a href="https://github.com/amanpandit2005">
+  <a href="https://github.com/amanmishra2005">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&height=50&lines=CSE+Student+@+SMVDU;Full-Stack+Web+Developer;TypeScript+%26+Next.js;Real-time+Socket.io;DSA+%26+Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o0NDg4OGd2cHJ6eHA3ZjN2OHQwbzRnZWZ2eTh2cWw2ZXpkeXFwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L13yIHSgrCVD2C14ws/giphy.gif" width="180" alt="Coding Developer" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/amanmishra2005/Portfolio_Website" target="_blank">
+    <img src="https://img.shields.io/badge/Interactive%20Portfolio-View%20My%20Work-FF5A1F?style=for-the-badge&logo=react&logoColor=white" alt="Interactive Portfolio" />
+  </a>
 </p>
 
 ---
@@ -80,11 +86,31 @@ I am a **Computer Science & Engineering Student** at **Shri Mata Vaishno Devi Un
 <table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://github.com/amanmishra2005/AI_Interview_Coach">AI Interview Coach</a></h3>
-      <p>A full-stack mock interview platform. Conducts real-time speech-to-text interviews using Google Gemini to grade resumes and evaluate transcripts.</p>
+      <h3>🎙️ <a href="https://github.com/amanmishra2005/Podium_AI_Interview_Coach">Podium — AI Mock Interview Coach</a></h3>
+      <p>A full-stack mock interview platform simulating SDE behavioral/technical rounds. Uses Google Gemini to analyze profiles, parse resumes, and capture voice responses in real time.</p>
       <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" />
+      <img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express" />
+      <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb" />
       <img src="https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=google" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/amanmishra2005/CodeMerge">CodeMerge — Developer Profile & AI Reviewer</a></h3>
+      <p>A unified developer dashboard aggregating real-time stats from LeetCode, GfG, HackerRank, and Codeforces, using Gemini AI to generate live profile evaluations and learning path recommendations.</p>
+      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" />
+      <img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express" />
+      <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb" />
+      <img src="https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=google" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/amanmishra2005/Web_Development">Web Development</a></h3>
+      <p>A library of modular frontend components, interactive JS templates, and responsive layouts designed for production readiness.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     </td>
     <td width="50%" valign="top">
       <h3>☕ <a href="https://github.com/amanmishra2005/DSA_in_Java">DSA in Java</a></h3>
@@ -95,17 +121,17 @@ I am a **Computer Science & Engineering Student** at **Shri Mata Vaishno Devi Un
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>✨ <a href="https://github.com/amanmishra2005/Portfolio_Website">Interactive Portfolio Website</a></h3>
+      <p>Source code for my premium personal portfolio featuring advanced keyframe animations, glassmorphism UI widgets, and a responsive contact pipeline.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
       <h3>📦 <a href="https://github.com/amanmishra2005/Project_DSA_in_C">Parcel Delivery System</a></h3>
       <p>A low-level C logistics optimizer, implementing custom pointer algorithms, structures, and routing modules from scratch.</p>
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/Logistics-black?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/amanmishra2005/Web_Development">Web Development</a></h3>
-      <p>A library of frontend components, interactive JS templates, and my fully responsive personal HTML + CSS portfolio website.</p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     </td>
   </tr>
 </table>
