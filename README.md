@@ -121,7 +121,7 @@ I am a **Computer Science & Engineering Student** at **Shri Mata Vaishno Devi Un
 
 ### 📊 GitHub Overview & Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=amanpandit2005&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Aman's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=amanmishra2005&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Aman's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=amanmishra2005&layout=compact&theme=radical&hide_border=true" alt="Aman's Top Languages" width="48%" />
 </p>
 
